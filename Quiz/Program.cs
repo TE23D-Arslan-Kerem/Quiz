@@ -67,7 +67,7 @@ else if ( points  > 3)
  Console.WriteLine(" du har koll på Harry potter filmerna/böckerna");
 
 }
-
+//
 else 
 {
     Console.WriteLine(" GRATTIS du van");
